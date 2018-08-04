@@ -1070,7 +1070,7 @@ class ViewController: UIViewController {
       eventualWinner(red: redZoneWhoWin, yellow: yellowZoneWhoWin, green: greenZoneWhoWin)
     }
     }
-
+//to do a timer 
     var timer = Timer()
     
     var minute = 3
